@@ -1,4 +1,7 @@
 # LightDM GTK Greeter
+
+###### SHOULD ONLY BE USED WITH ARRAYLINUX
+
 **LightDM GTK Greeter** is a greeter that has moderate requirements (GTK).
 
 This project is one of many greeters for [LightDM](https://github.com/canonical/lightdm).
