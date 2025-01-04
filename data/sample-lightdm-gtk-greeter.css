@@ -11,7 +11,7 @@ For more fine-grain control, you can also use the named widgets. Those are being
  *************************/
 
 .lightdm-gtk-greeter {
-    background-color: black;
+    background-color: #121623;
     color: white;
 }
 
