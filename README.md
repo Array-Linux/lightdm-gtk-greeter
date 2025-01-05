@@ -1,4 +1,4 @@
-# LightDM GTK Greeter
+# Arraylinux fork of LightDM GTK Greeter
 
 ###### SHOULD ONLY BE USED WITH ARRAYLINUX
 
