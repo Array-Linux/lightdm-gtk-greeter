@@ -11,5 +11,5 @@ sha256sums=('SKIP')
 
 package() {
     install -dm777 "$pkgdir/etc/lightdm/"
-    cp  "$srcdir/lightdm-gtk-greeter.conf" "$pkgdir/etc/lightdm/lightdm-gtk-greeter.conf"
+    cp "$srcdir/lightdm-gtk-greeter.conf" "$pkgdir/etc/lightdm/lightdm-gtk-greeter.conf"
 }
