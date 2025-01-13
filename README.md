@@ -1,6 +1,5 @@
-# Arraylinux fork of LightDM GTK Greeter
+# Arraylinux configuration files for LightDM-GTK-Greeter
 
-###### SHOULD ONLY BE USED WITH ARRAYLINUX
 
 **LightDM GTK Greeter** is a greeter that has moderate requirements (GTK).
 
